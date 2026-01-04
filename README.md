@@ -74,3 +74,4 @@ This dataset is suitable for big data analysis due to its size and real-world co
 
 6 output:
 
+[task1.pdf](https://github.com/user-attachments/files/24422217/task1.pdf)
