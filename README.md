@@ -41,6 +41,11 @@ It contains millions of records with attributes such as:
   Total amount
 This dataset is suitable for big data analysis due to its size and real-world complexity.
 
+Dataset Source:
+[https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data)
+
+(The dataset is not uploaded to this repository because of its large size; only the source link is provided.)
+
 
 4.Tools & Technologies
 
