@@ -1,10 +1,15 @@
 TASK -1 BIG DATA ANALYSIS
 
 COMPANY: Codtech IT Solutions Private Limited
+
 NAME: Yashwanth Koppera
+
 Intern ID: CTIS1714
+
 DOMAIN: Data Analytics
+
 Duration: 4 WEEEKS
+
 MENTOR: Neela Santhosh Kumar 
 
 
